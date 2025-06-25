@@ -8,8 +8,6 @@ DOMAIN-SUFFIX,npmjs.org
 
 # github
 DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubassets.com
 
 # google
 DOMAIN-SUFFIX,gstatic.com
@@ -19,10 +17,7 @@ DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 
 # 容器
-DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,lscr.io
-DOMAIN-SUFFIX,ghcr.io
 
 # ai
 DOMAIN-SUFFIX,poe.com
