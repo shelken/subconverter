@@ -11,7 +11,7 @@ common:
   filter_script: ""
   default_external_config: "" # config/example_external_config.yml
   base_path: base
-  clash_rule_base: base/all_base.tpl
+  clash_rule_base: base/clash.tpl
   surge_rule_base: base/all_base.tpl
   surfboard_rule_base: base/all_base.tpl
   mellow_rule_base: base/all_base.tpl

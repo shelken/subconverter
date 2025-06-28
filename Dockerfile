@@ -13,6 +13,7 @@ RUN apk add tzdata --no-cache && \
 COPY groups.txt rulesets.txt ./snippets/
 COPY pref.yml ./
 COPY tmpl/singbox.tpl base/
+COPY tmpl/clash.tpl base/
 
 EXPOSE 25500
 
