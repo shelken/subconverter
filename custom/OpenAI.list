@@ -18,10 +18,6 @@ DOMAIN-SUFFIX,windsurf.com
 # groq
 DOMAIN-SUFFIX,groq.com
 
-# notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
-
 # perplexity
 DOMAIN-SUFFIX,perplexity.ai
 
