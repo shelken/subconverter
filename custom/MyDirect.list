@@ -1,5 +1,5 @@
 # 所有cn结尾
-# DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,cn
 
 # icloud
 DOMAIN-KEYWORD,icloud
