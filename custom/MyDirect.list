@@ -1,5 +1,6 @@
 # 所有cn结尾
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,lan
 
 # icloud
 DOMAIN-KEYWORD,icloud
@@ -23,6 +24,12 @@ DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,bochk.com
+
+# 进程名
+PROCESS-NAME,tailscale
+PROCESS-NAME,tailscaled
+PROCESS-NAME,zerotier-one
+PROCESS-NAME,parsecd
 
 # other
 DOMAIN-SUFFIX,ocsp.digicert.com
