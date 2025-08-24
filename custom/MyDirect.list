@@ -40,3 +40,6 @@ DOMAIN-SUFFIX,nextdns.io
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
+
+# ipv6 兜底走直连 
+IP-CIDR6,::/0,no-resolve
