@@ -1,9 +1,18 @@
+# 开发
+DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,iterm2.com
+DOMAIN-SUFFIX,rockylinux.org
+DOMAIN-SUFFIX,npmjs.org
+
+# github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+
+# container
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,lscr.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,registry.k8s.io
-
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubassets.com
