@@ -1,23 +1,11 @@
 # mine
 
-# 开发
-DOMAIN-SUFFIX,brew.sh
-DOMAIN-SUFFIX,iterm2.com
-DOMAIN-SUFFIX,rockylinux.org
-DOMAIN-SUFFIX,npmjs.org
-
-# github
-DOMAIN-SUFFIX,github.com
-
 # google
 DOMAIN-SUFFIX,gstatic.com
 
 # wiki
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
-
-# 容器
-DOMAIN-SUFFIX,docker.com
 
 # ai
 DOMAIN-SUFFIX,poe.com
@@ -54,3 +42,4 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,v2ex.com
+
