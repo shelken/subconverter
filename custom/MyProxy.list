@@ -1,5 +1,8 @@
 # mine
 
+# github
+DOMAIN-SUFFIX,github.com
+
 # google
 DOMAIN-SUFFIX,gstatic.com
 
@@ -42,4 +45,5 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,v2ex.com
+
 
