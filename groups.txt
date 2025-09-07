@@ -1,4 +1,4 @@
-🔰 PROXY`select`🇭🇰 香港节点`[]🎯 DIRECT`.*
+🔰 PROXY`select`[]🇭🇰 香港节点`.*
 🚫 AdBlock`select`[]REJECT`[]🎯 DIRECT`[]🔰 PROXY`.*
 🐬 MyDirect`select`[]🎯 DIRECT`[]🔰 PROXY`.*
 🚀 MyProxy`select`[]🔰 PROXY`[]🎯 DIRECT`.*
