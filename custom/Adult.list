@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,hohoj.tv
 DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,4hu.tv
 DOMAIN-SUFFIX,5masterzzz.site
+DOMAIN-SUFFIX,24av.net
 DOMAIN,s.dsqcjk.com
 
 DOMAIN-KEYWORD,fc2
@@ -25,6 +26,7 @@ DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,123av
 DOMAIN-KEYWORD,goodav
 DOMAIN-KEYWORD,javdh
+DOMAIN-KEYWORD,surrit
 
 # cdn site
 DOMAIN,cdn.avfever.net
@@ -46,9 +48,15 @@ DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 ## other 
 DOMAIN-SUFFIX,cdn-centaurus.com
+DOMAIN-SUFFIX,mxcontent.net
+DOMAIN-SUFFIX,sacdnssedge.com
 
 # porn 
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,xvv1deos.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,dirtyship.com
+DOMAIN-SUFFIX,dczssdgz.com
+
+# complex rule（loon）
+AND,((OR,((DOMAIN-SUFFIX,online),(DOMAIN-SUFFIX,site))),(DOMAIN-KEYWORD,assets-))
