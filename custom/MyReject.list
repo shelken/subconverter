@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,api.liquidlink.cn
 
 # mumu
 DOMAIN-SUFFIX,mumu.nie.netease.com
+
+# 建行vpn检测
+DOMAIN,msmp.abchina.com.cn
