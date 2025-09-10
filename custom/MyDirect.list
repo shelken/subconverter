@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,lan
 
+# 机场相关
+DOMAIN-SUFFIX,qwer-cn.top
+
 # icloud
 DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,icloud.com.cn
@@ -24,6 +27,10 @@ DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,bochk.com
+
+# plex
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,plex.tv
 
 # 进程名
 PROCESS-NAME,tailscale
