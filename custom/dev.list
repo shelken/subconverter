@@ -4,6 +4,10 @@ DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,rockylinux.org
 DOMAIN-SUFFIX,npmjs.org
 
+# nix
+DOMAIN-SUFFIX,nixos.org
+DOMAIN-SUFFIX,determinate.systems
+
 # github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
