@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,ooooo.space
 
 # game
 DOMAIN-SUFFIX,store.epicgames.com
+DOMAIN-SUFFIX,steamserver.net
 
 # amazon
 DOMAIN-SUFFIX,amazon.com.cn
