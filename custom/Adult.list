@@ -61,3 +61,4 @@ DOMAIN-SUFFIX,dczssdgz.com
 
 # complex rule（loon）
 AND,((OR,((DOMAIN-SUFFIX,online),(DOMAIN-SUFFIX,site))),(DOMAIN-KEYWORD,assets-))
+AND,((DOMAIN-SUFFIX,store),(DOMAIN-KEYWORD,urbanhaze))
