@@ -1,7 +1,7 @@
 # mine
 
 # google
-DOMAIN-SUFFIX,gstatic.com
+#DOMAIN-SUFFIX,gstatic.com
 
 # wiki
 DOMAIN-SUFFIX,wikimedia.org
@@ -37,13 +37,14 @@ DOMAIN-SUFFIX,todoist.com
 # nintendo/ptcg
 DOMAIN-SUFFIX,pokemon-webapi.appspot.com
 DOMAIN-SUFFIX,gift.pokemontcgpocket.com
-DOMAIN-SUFFIX,akamaized.net
+#DOMAIN-SUFFIX,akamaized.net
 
 # 其他
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,v2ex.com
+
 
 
 
