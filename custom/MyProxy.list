@@ -1,29 +1,28 @@
-# mine
-
-# google
-DOMAIN-SUFFIX,gstatic.com
-
-# wiki
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikipedia.org
-
 # ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,fastgpt.run
 DOMAIN-SUFFIX,huggingface.co
 
-# 生产力
-DOMAIN-SUFFIX,raycast.com
-
 # arc
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,arcboosts.com
 
+# crypto
+DOMAIN-SUFFIX,metamask.io
+
+# google
+DOMAIN-SUFFIX,gstatic.com
+
+# seagm
+DOMAIN-SUFFIX,seagm.com
+
 # miaona
 DOMAIN-KEYWORD,miaona
 
-# 加密货币
-DOMAIN-SUFFIX,metamask.io
+# nintendo/ptcg
+DOMAIN-SUFFIX,pokemon-webapi.appspot.com
+DOMAIN-SUFFIX,gift.pokemontcgpocket.com
+#DOMAIN-SUFFIX,akamaized.net
 
 # reddit
 DOMAIN-SUFFIX,redd.it
@@ -34,21 +33,15 @@ DOMAIN-SUFFIX,redditmedia.com
 # todoist
 DOMAIN-SUFFIX,todoist.com
 
-# nintendo/ptcg
-DOMAIN-SUFFIX,pokemon-webapi.appspot.com
-DOMAIN-SUFFIX,gift.pokemontcgpocket.com
-#DOMAIN-SUFFIX,akamaized.net
+# tools 
+DOMAIN-SUFFIX,raycast.com
 
-# 其他
+# wiki
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
+
+# others 其他
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,v2ex.com
-
-
-
-
-
-
-
-
