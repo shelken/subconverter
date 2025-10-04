@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,5masterzzz.site
 DOMAIN-SUFFIX,24av.net
 DOMAIN,s.dsqcjk.com
 
+# keyword
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,fc2
 DOMAIN-KEYWORD,hentai
 DOMAIN-KEYWORD,xvideo
@@ -58,6 +61,9 @@ DOMAIN-SUFFIX,xvv1deos.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,dirtyship.com
 DOMAIN-SUFFIX,dczssdgz.com
+## pornolab
+DOMAIN-SUFFIX,pornolab.net
+DOMAIN-SUFFIX,plab.site
 
 # complex rule（loon）
 AND,((OR,((DOMAIN-SUFFIX,online),(DOMAIN-SUFFIX,site))),(DOMAIN-KEYWORD,assets-))
