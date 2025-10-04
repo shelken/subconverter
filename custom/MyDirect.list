@@ -27,6 +27,16 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,icloud.com.cn
 
+# ip 检查
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ident.me
+DOMAIN-SUFFIX,myip.com
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipwho.is
+DOMAIN-SUFFIX,ipw.cn
+
 # mine
 DOMAIN-SUFFIX,ooooo.space
 
