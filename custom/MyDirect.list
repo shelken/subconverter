@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,local
 # others
 DOMAIN-SUFFIX,ocsp.digicert.com
 DOMAIN-SUFFIX,gitee.io
+DOMAIN-SUFFIX,avbase.net
 
 # ipv6 兜底走直连 
 IP-CIDR6,::/0,no-resolve
