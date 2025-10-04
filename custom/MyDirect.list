@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,store.epicgames.com
 DOMAIN-SUFFIX,steamserver.net
 
+# google
+DOMAIN-SUFFIX,gstatic.com
+
 # icloud
 DOMAIN-KEYWORD,icloud
 DOMAIN-SUFFIX,icloud.com.cn
