@@ -1,7 +1,7 @@
 # mine
 
 # google
-#DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gstatic.com
 
 # wiki
 DOMAIN-SUFFIX,wikimedia.org
@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,v2ex.com
+
 
 
 
