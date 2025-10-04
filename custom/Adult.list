@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,cdn-centaurus.com
 DOMAIN-SUFFIX,mxcontent.net
 DOMAIN-SUFFIX,sacdnssedge.com
+DOMAIN-SUFFIX,sp1111ce.cloudatacdn.com
 
 # porn 
 DOMAIN-SUFFIX,pornhub.com
@@ -61,10 +62,16 @@ DOMAIN-SUFFIX,xvv1deos.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,dirtyship.com
 DOMAIN-SUFFIX,dczssdgz.com
+DOMAIN-SUFFIX,spankbang.com
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN-SUFFIX,btyjscl.com
+DOMAIN-SUFFIX,4k2.com
 ## pornolab
 DOMAIN-SUFFIX,pornolab.net
 DOMAIN-SUFFIX,plab.site
+DOMAIN-SUFFIX,fastpic.org
 
 # complex rule（loon）
 AND,((OR,((DOMAIN-SUFFIX,online),(DOMAIN-SUFFIX,site))),(DOMAIN-KEYWORD,assets-))
-AND,((DOMAIN-SUFFIX,store),(DOMAIN-KEYWORD,urbanhaze))
+AND,((DOMAIN-SUFFIX,store),(OR,((DOMAIN-KEYWORD,trendcart),(DOMAIN-KEYWORD,freshvibe),(DOMAIN-KEYWORD,urbanhaze))))
+AND,((DOMAIN-SUFFIX,space),(DOMAIN-KEYWORD,radiantflow))
