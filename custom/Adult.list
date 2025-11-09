@@ -19,6 +19,12 @@ DOMAIN-SUFFIX,5masterzzz.site
 DOMAIN-SUFFIX,24av.net
 DOMAIN,s.dsqcjk.com
 
+# javdb app
+DOMAIN-SUFFIX,jdforrepam.com
+DOMAIN-SUFFIX,btyjscl.com
+DOMAIN-SUFFIX,czssdgz.com
+DOMAIN-SUFFIX,cmastd.com
+
 # keyword
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,jav
@@ -64,14 +70,15 @@ DOMAIN-SUFFIX,dirtyship.com
 DOMAIN-SUFFIX,dczssdgz.com
 DOMAIN-SUFFIX,spankbang.com
 DOMAIN-SUFFIX,sb-cd.com
-DOMAIN-SUFFIX,btyjscl.com
 DOMAIN-SUFFIX,4k2.com
+DOMAIN-SUFFIX,magi.com
 ## pornolab
 DOMAIN-SUFFIX,pornolab.net
 DOMAIN-SUFFIX,plab.site
 DOMAIN-SUFFIX,fastpic.org
 
 # complex rule（loon）
+## 123av
 AND,((OR,((DOMAIN-SUFFIX,online),(DOMAIN-SUFFIX,site))),(DOMAIN-KEYWORD,assets-))
 AND,((DOMAIN-SUFFIX,store),(OR,((DOMAIN-KEYWORD,trendcart),(DOMAIN-KEYWORD,freshvibe),(DOMAIN-KEYWORD,urbanhaze))))
 AND,((DOMAIN-SUFFIX,space),(DOMAIN-KEYWORD,radiantflow))
