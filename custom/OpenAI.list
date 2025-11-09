@@ -9,6 +9,11 @@ DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,sora.com
 
+# minimax
+DOMAIN-SUFFIX,minimaxi.com
+DOMAIN-SUFFIX,minimax.io
+DOMAIN-KEYWORD,hailuoai
+
 # windsurf
 DOMAIN-SUFFIX,windsurf.com
 
