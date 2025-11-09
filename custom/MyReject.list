@@ -1,19 +1,40 @@
-DOMAIN-SUFFIX,pingma.qq.com
-DOMAIN-SUFFIX,unityads.unity3d.com
-DOMAIN-SUFFIX,cdn.iads.unitychina.cn
-DOMAIN-SUFFIX,iads.unity3d.com
+# ali
+DOMAIN-SUFFIX,loggw-ex.alipay.com
+DOMAIN-SUFFIX,mum.alibabachengdun.com
 
-DOMAIN-SUFFIX,sentry.io
-
-# ad
-DOMAIN-SUFFIX,api.liquidlink.cn
-DOMAIN-SUFFIX,estimatedeferbulk.com
+# bank
+## 建行vpn检测
+DOMAIN,msmp.abchina.com.cn
 
 # bili
 DOMAIN-SUFFIX,dataflow.biliapi.com
 
+# javdb app
+DOMAIN-SUFFIX,api.liquidlink.cn
+
+# mi
+DOMAIN-SUFFIX,tracking.miui.com
+
 # mumu
 DOMAIN-SUFFIX,mumu.nie.netease.com
 
-# 建行vpn检测
-DOMAIN,msmp.abchina.com.cn
+# qq
+DOMAIN-SUFFIX,pingma.qq.com
+
+# sentry
+DOMAIN-SUFFIX,sentry.io
+
+# xiaohongshu
+DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
+DOMAIN-SUFFIX,apm-native.xiaohongshu.com
+
+# unity
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,cdn.iads.unitychina.cn
+DOMAIN-SUFFIX,iads.unity3d.com
+
+# keyword
+DOMAIN-KEYWORD,analytics-api
+
+# others
+DOMAIN-SUFFIX,estimatedeferbulk.com
