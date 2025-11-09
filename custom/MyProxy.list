@@ -7,8 +7,23 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,arcboosts.com
 
+# bybit
+DOMAIN-KEYWORD,bybit
+DOMAIN-SUFFIX,bybits.org
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bycsi.com
+
+# cloudflare
+DOMAIN-SUFFIX,static.cloudflareinsights.com
+
 # crypto
 DOMAIN-SUFFIX,metamask.io
+
+# futu
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futufin.com
 
 # google
 DOMAIN-SUFFIX,gstatic.com
@@ -30,6 +45,9 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmedia.com
 
+# tls
+DOMAIN-SUFFIX,hk
+
 # todoist
 DOMAIN-SUFFIX,todoist.com
 
@@ -45,3 +63,4 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,v2ex.com
+
