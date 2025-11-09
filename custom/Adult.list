@@ -82,5 +82,5 @@ DOMAIN-SUFFIX,fastpic.org
 # complex rule（loon）
 ## 123av
 AND,((OR,((DOMAIN-SUFFIX,online),(DOMAIN-SUFFIX,site))),(DOMAIN-KEYWORD,assets-))
-AND,((DOMAIN-SUFFIX,store),(OR,((DOMAIN-KEYWORD,trendcart),(DOMAIN-KEYWORD,freshvibe),(DOMAIN-KEYWORD,urbanhaze))))
+AND,((DOMAIN-SUFFIX,store),(OR,((DOMAIN-KEYWORD,trendcart),(DOMAIN-KEYWORD,freshvibe),(DOMAIN-KEYWORD,urbanhaze),(DOMAIN-KEYWORD,green-leaf),(DOMAIN-KEYWORD,red-stone))))
 AND,((DOMAIN-SUFFIX,space),(DOMAIN-KEYWORD,radiantflow))
