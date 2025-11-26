@@ -66,4 +66,8 @@ DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,avbase.net
 
 # ipv6 兜底走直连 
-IP-CIDR6,::/0,no-resolve
+#IP-CIDR6,::/0,no-resolve
+# 电信/移动/联通
+IP-CIDR6,240e::/18,no-resolve
+IP-CIDR6,2409:8000::/20,no-resolve
+IP-CIDR6,2408:8000::/20,no-resolve
