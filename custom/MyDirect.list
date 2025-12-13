@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,cup.com.cn
+DOMAIN-SUFFIX,95516.com
 
 # game
 DOMAIN-SUFFIX,store.epicgames.com
@@ -42,8 +44,13 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,ipw.cn
 
+# mail
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,139.com
+
 # mine
 DOMAIN-SUFFIX,ooooo.space
+DOMAIN-SUFFIX,yoooo.xyz
 
 # plex
 DOMAIN-SUFFIX,plex.direct
@@ -60,10 +67,16 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,local
 
+# vpn
+DOMAIN-SUFFIX,netbird.io
+
 # others
 DOMAIN-SUFFIX,ocsp.digicert.com
 DOMAIN-SUFFIX,gitee.io
 DOMAIN-SUFFIX,avbase.net
+DOMAIN-SUFFIX,miaona.tv
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,cloudflare.182682.xyz
 
 # ipv6 兜底走直连 
 #IP-CIDR6,::/0,no-resolve
