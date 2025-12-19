@@ -20,6 +20,11 @@ DOMAIN-SUFFIX,static.cloudflareinsights.com
 # crypto
 DOMAIN-SUFFIX,metamask.io
 
+# dns
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+
 # futu
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,futunn.com
@@ -63,4 +68,5 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,v2ex.com
+
 
