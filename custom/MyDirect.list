@@ -52,6 +52,14 @@ DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,ooooo.space
 DOMAIN-SUFFIX,yoooo.xyz
 
+# mirror
+DOMAIN-SUFFIX,mirrorify.net
+DOMAIN-SUFFIX,m.daocloud.io
+DOMAIN-SUFFIX,daocloud.io
+DOMAIN-SUFFIX,gh-proxy.org
+DOMAIN-SUFFIX,ghproxy.link
+DOMAIN-SUFFIX,ghfast.top
+
 # plex
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,plex.tv
