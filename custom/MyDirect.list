@@ -48,6 +48,9 @@ DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,139.com
 
+# microsoft
+DOMAIN-SUFFIX,live.com
+
 # mine
 DOMAIN-SUFFIX,ooooo.space
 DOMAIN-SUFFIX,yoooo.xyz
