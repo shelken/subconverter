@@ -44,6 +44,9 @@ DOMAIN-SUFFIX,pokemon-webapi.appspot.com
 DOMAIN-SUFFIX,gift.pokemontcgpocket.com
 #DOMAIN-SUFFIX,akamaized.net
 
+# parsec
+DOMAIN-SUFFIX,parsec.app
+
 # reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
@@ -68,5 +71,6 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,v2ex.com
+
 
 
