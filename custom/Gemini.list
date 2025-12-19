@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,developerprofiles-pa.googleapis.com
 
-DOMAIN,clients6.google.com
+DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,play.googleapis.com
 #DOMAIN-SUFFIX,www.google.com
 
