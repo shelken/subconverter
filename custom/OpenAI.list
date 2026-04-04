@@ -31,5 +31,17 @@ DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
+# kimi
+DOMAIN-SUFFIX,kimi.com
+
+# zed
+DOMAIN-SUFFIX,zed.dev
+
 # dia
 DOMAIN-SUFFIX,diabrowser.engineering
+
+# tools
+DOMAIN-SUFFIX,exa.ai
+
+# others
+DOMAIN-KEYWORD,stripe
