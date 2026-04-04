@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,fastgpt.run
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,minimax.io
 
 # arc
 DOMAIN-SUFFIX,arc.net
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,bybits.org
 DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byd3c3.com
 
 # cloudflare
 DOMAIN-SUFFIX,static.cloudflareinsights.com
@@ -32,6 +34,7 @@ DOMAIN-SUFFIX,futufin.com
 
 # google
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gmail.com
 
 # seagm
 DOMAIN-SUFFIX,seagm.com
@@ -71,6 +74,5 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,v2ex.com
-
-
-
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,nvidia.com
