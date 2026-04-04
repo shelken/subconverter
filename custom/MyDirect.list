@@ -1,7 +1,11 @@
 # 机场代理相关
-DOMAIN-SUFFIX,qwer-cn.top
+DOMAIN-KEYWORD,qwer-cn
 DOMAIN-SUFFIX,kelee.one
+DOMAIN-SUFFIX,q1w2d3.org
 DOMAIN,🎈.com
+
+# ai
+DOMAIN-SUFFIX,opencode.ai
 
 # amazon
 DOMAIN-SUFFIX,amazon.com.cn
@@ -50,6 +54,7 @@ DOMAIN-SUFFIX,139.com
 
 # microsoft
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,vault.azure.net
 
 # mine
 DOMAIN-SUFFIX,ooooo.space
@@ -88,6 +93,7 @@ DOMAIN-SUFFIX,avbase.net
 DOMAIN-SUFFIX,miaona.tv
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,cloudflare.182682.xyz
+DOMAIN-SUFFIX,linuxdo.org
 
 # ipv6 兜底走直连 
 #IP-CIDR6,::/0,no-resolve
