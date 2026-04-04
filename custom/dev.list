@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,determinate.systems
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
 
 # container
 DOMAIN-SUFFIX,docker.io
