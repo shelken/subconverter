@@ -1,6 +1,7 @@
 # ali
 DOMAIN-SUFFIX,loggw-ex.alipay.com
 DOMAIN-SUFFIX,mum.alibabachengdun.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
 
 # bank
 ## 建行vpn检测
@@ -8,6 +9,9 @@ DOMAIN,msmp.abchina.com.cn
 
 # bili
 DOMAIN-SUFFIX,dataflow.biliapi.com
+
+# bluestack
+DOMAIN-SUFFIX,delegate.bluestacks.com
 
 # javdb app
 DOMAIN-SUFFIX,api.liquidlink.cn
@@ -38,3 +42,4 @@ DOMAIN-KEYWORD,analytics-api
 
 # others
 DOMAIN-SUFFIX,estimatedeferbulk.com
+DOMAIN-SUFFIX,upc.zztfly.com
