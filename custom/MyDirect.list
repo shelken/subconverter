@@ -72,6 +72,9 @@ DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,plex.tv
 
+# port
+DEST-PORT,22
+
 # process 进程名
 PROCESS-NAME,tailscale
 PROCESS-NAME,tailscaled
