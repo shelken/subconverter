@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,windsurf.com
 # groq
 DOMAIN-SUFFIX,groq.com
 
+# openrouter
+DOMAIN-SUFFIX,openrouter.ai
+
 # perplexity
 DOMAIN-SUFFIX,perplexity.ai
 
