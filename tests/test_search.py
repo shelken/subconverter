@@ -24,11 +24,6 @@ class TestScoreName:
         assert score_name("hub", "GitHub") == 80
         assert score_name("micro", "Microsoft") == 80
 
-    def test_reverse_substring_match(self):
-        # 名称是查询词的子串
-        assert score_name("OpenAI", "open") == 80
-        assert score_name("GitHub", "hub") == 80
-
     def test_no_match(self):
         assert score_name("opencode", "OpenAI") == 0
         assert score_name("banana", "GitHub") == 0

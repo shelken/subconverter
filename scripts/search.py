@@ -64,7 +64,7 @@ def score_name(query: str, name: str) -> float:
     n = name.lower()
     if n == q:
         return 100
-    if q in n or n in q:
+    if q in n:
         return 80
     return 0
 
