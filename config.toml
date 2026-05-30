@@ -92,7 +92,7 @@ type = "select"
 rule = ["[]🎯 DIRECT", "[]🔰 PROXY", ".*"]
 
 [[custom_groups]]
-name = "opencode"
+name = "♣️ OpenCode"
 type = "load-balance"
 rule = [
   "[]👻 SelfHost",
@@ -177,7 +177,7 @@ group = "🔞 AdultNSFW"
 ruleset = "https://raw.githubusercontent.com/shelken/subconverter/master/custom/Adult.list"
 
 [[rulesets]]
-group = "opencode"
+group = "♣️ OpenCode"
 ruleset = "https://raw.githubusercontent.com/shelken/subconverter/master/custom/opencode.list"
 
 [[rulesets]]
