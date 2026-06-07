@@ -59,7 +59,7 @@ rule = ["[]👻 SelfHost", "[]🎯 DIRECT", ".*"]
 [[custom_groups]]
 name = "🇯🇵 JapanSite"
 type = "select"
-rule = ["[]🇯🇵 日本节点", "(Japan|JP|日本|🇯🇵)"]
+rule = ["[]🇯🇵 日本节点", "(Japan|JP|日本|JP|🇯🇵)"]
 
 [[custom_groups]]
 name = "🔞 AdultNSFW"
@@ -69,7 +69,7 @@ rule = ["[]👻 SelfHost", "[]🔰 PROXY"]
 [[custom_groups]]
 name = "🎬 Media"
 type = "select"
-rule = ["[]🔰 PROXY", "(香港|HK|hk|🇭🇰|台湾|TW|tw|新加坡|SG|sg|🇸🇬)"]
+rule = ["[]🔰 PROXY", "(香港|HK|hk|🇭🇰|台湾|TW|tw|新加坡|狮城|SG|sg|🇸🇬)"]
 
 [[custom_groups]]
 name = "▶️ YouTube"
@@ -97,7 +97,7 @@ type = "load-balance"
 rule = [
   "[]👻 SelfHost",
   "[]🔰 PROXY",
-  "(香港|HK|hk|🇭🇰|台湾|TW|tw|新加坡|SG|sg|🇸🇬|日本|🇯🇵|美国|US|LA|🇺🇲)",
+  "(香港|HK|hk|🇭🇰|台湾|TW|tw|新加坡|狮城|SG|sg|🇸🇬|日本|JP|🇯🇵|美国|US|LA|🇺🇲)",
 ]
 url = "http://www.gstatic.com/generate_204"
 interval = 120
@@ -121,7 +121,7 @@ rule = ["(香港|港|HK|Hong Kong)"]
 [[custom_groups]]
 name = "🇯🇵 日本节点"
 type = "select"
-rule = ["(JP|Japan|日本|🇯🇵)"]
+rule = ["(JP|Japan|日本|JP|🇯🇵)"]
 
 [[custom_groups]]
 name = "🎯 DIRECT"
