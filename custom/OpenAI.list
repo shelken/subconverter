@@ -43,8 +43,5 @@ DOMAIN-SUFFIX,zed.dev
 # dia
 DOMAIN-SUFFIX,diabrowser.engineering
 
-# tools
-DOMAIN-SUFFIX,exa.ai
-
 # others
 DOMAIN-KEYWORD,stripe
