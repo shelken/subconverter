@@ -74,6 +74,8 @@ DOMAIN-SUFFIX,plex.tv
 
 # port
 DEST-PORT,22
+# NTP 经代理上下行不对称会造成钟差，必须直连
+DEST-PORT,123
 
 # process 进程名
 PROCESS-NAME,tailscale
