@@ -73,9 +73,13 @@ DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,plex.tv
 
 # port
+# 双拼写：subconverter 按目标类型表过滤，clash/mihomo 只认 DST-PORT，
+# Surge/Loon 系只认 DEST-PORT，未知拼写会被静默丢弃（实测 ruleconvert.cpp:13-18）
 DEST-PORT,22
+DST-PORT,22
 # NTP 经代理上下行不对称会造成钟差，必须直连
 DEST-PORT,123
+DST-PORT,123
 
 # process 进程名
 PROCESS-NAME,tailscale
