@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 
 # kimi
 DOMAIN-SUFFIX,kimi.com
